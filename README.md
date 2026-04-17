@@ -58,12 +58,6 @@ VS Code | Git | GitHub | Canva | MS Word | PowerPoint | Anaconda
 
 ---
 
-## 📈 GitHub Stats
-
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibariasat56\&show_icons=true\&theme=default)
-
----
-
 ## 📫 Connect with Me
 
 📧 Email: [laibaaaariasat56@gmail.com](mailto:laibaaaariasat56@gmail.com)
