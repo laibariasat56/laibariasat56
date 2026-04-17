@@ -67,8 +67,7 @@ VS Code | Git | GitHub | Canva | MS Word | PowerPoint | Anaconda
 ## 📫 Connect with Me
 
 📧 Email: [laibaaaariasat56@gmail.com](mailto:laibaaaariasat56@gmail.com)
-🔗 LinkedIn: (Add your link)
-💻 GitHub: https://github.com/laibariasat56
+🔗 LinkedIn: [Laiba Riasat](https://www.linkedin.com/in/laiba-riasat-165771340/)
 
 ---
 
