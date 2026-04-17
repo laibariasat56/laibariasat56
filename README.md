@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Laiba Riasat
 
-<!--
-**laibariasat56/laibariasat56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student | Web Developer | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+📍 Mirpur AJK, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am a Software Engineering student with hands-on experience in full-stack web development, creative design, and academic research support. I enjoy building responsive web applications and solving real-world problems through technology.
+
+Currently, I am exploring the field of **Artificial Intelligence & Machine Learning**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Web Development
+
+* HTML, CSS, JavaScript
+* Node.js, SQL
+
+### 📊 Data Science
+
+* Python, NumPy, Pandas, Matplotlib
+
+### 💡 Programming
+
+* C++, C#, Python
+
+### 🎨 Design & Content
+
+* Canva (Posters, Logos, Presentations)
+* Branding & Visual Content
+
+---
+
+## 📂 Projects
+
+### 🩸 Online Blood Bank Donation System
+
+Full-stack web application to manage donors and recipients efficiently.
+
+### 🎨 Canva Design Portfolio
+
+Collection of creative social media designs, posters, and branding work.
+
+### 📑 Academic Writing & Research
+
+Worked with international clients on thesis writing, reports, and surveys.
+
+---
+
+## 🧰 Tools & Technologies
+
+VS Code | Git | GitHub | Canva | MS Word | PowerPoint | Anaconda
+
+---
+
+## 📈 GitHub Stats
+
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibariasat56\&show_icons=true\&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: [laibaaaariasat56@gmail.com](mailto:laibaaaariasat56@gmail.com)
+🔗 LinkedIn: (Add your link)
+💻 GitHub: https://github.com/laibariasat56
+
+---
+
+⭐ “Always learning, always building.”
